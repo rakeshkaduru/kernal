@@ -1,6 +1,7 @@
 # WHAT IS BOOTLOADER?
 ---
 a **bootloder** is a small program that:
+
 Runs **before the operating system starts**
 
 Loads the **OS kernel ** into memory 
