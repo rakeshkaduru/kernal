@@ -1,11 +1,15 @@
-WHAT IS BOOTLOADER?
-'''
-a small program the loaded is  os kernal.
-before os starts
-loaded the os cpu into memory
-'''
+# WHAT IS BOOTLOADER?
 
-BOOTLOADER ARCHITECTURE?
+a **bootloder** is a small program that:
+Runs **before the operating system starts**
+Loads the **OS kernel ** into memory 
+Gives control to the **CPU ** start the os
+
+ ---
+
+
+#  BOOTLOADER ARCHITECTURE?
+```text
 
 [Power ON]
      ↓
